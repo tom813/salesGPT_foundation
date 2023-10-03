@@ -178,7 +178,7 @@ ds = Dataset.from_pandas(df)
 # In[52]:
 
 
-ds.push_to_hub("goendalf666/sales-conversations-instruction_ext")
+ds.push_to_hub("goendalf666/sales-conversations-instruction-ext")
 
 
 # In[ ]:
